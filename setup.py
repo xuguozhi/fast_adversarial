@@ -22,7 +22,7 @@ setup(name='fast_adversarial',
           'Programming Language :: Python :: 3.7',
           'Topic :: Scientific/Engineering :: Artificial Intelligence',
       ],
-      python_requires='>=3.6',
+      python_requires='>=3.5',
       install_requires=[
           'torch>=0.4.1',
           'torchvision>=0.2.1',
