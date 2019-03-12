@@ -8,7 +8,7 @@ setup_path = os.path.abspath(os.path.dirname(__file__))
 
 setup(name='fast_adversarial',
       version='0.1',
-      url='https://github.com/jeromerony/fast_adversarial',
+      url='https://github.com/xuguozhi/fast_adversarial',
       maintainer='Jerome Rony, Luiz G. Hafemann',
       maintainer_email='jerome.rony@gmail.com',
       description='Implementation of gradient-based attacks and defenses for adversarial examples',
